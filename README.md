@@ -1,7 +1,7 @@
-# remove-fb-page-likes
+# Remove Facebook Page Likes
+
 JS script that aids in removal of likes from a FB page based on a date range. The script needs to be run within the People and Pages section of the page where the likes need to be removed from. It works by iterating through all the rows being displayed on the screen and selecting the checkbox of the ones that fall between the date range. Note that there is a limit of 500 users you can remove at the same time, so run the script with less than that.
 
-# Remove Facebook Page Likes
 What!? Why!? Well, we, at [WhiteTaleCoffee](https://whitetalecoffee.com) had to deal with a situation where a misguided marketing effort paid for about ~2,500 likes. As we improved our marketing foo, we realized that there were many hidden costs to having paid likes, and it all comes down to these people not being in our psychographic target, nor can we hope to target them in the future. This translated into low performing FB campaigns where money was wasted on people that had no chance of conversion.
 
 All of our purchased likes happened within a limited date range, so 
